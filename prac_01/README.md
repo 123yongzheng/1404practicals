@@ -1,1 +1,3 @@
-# Practical 01
+# CP1404 Practicals
+
+Practical work for IT@JCU CP1404
